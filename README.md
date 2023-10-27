@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdallah Alseddek</h1>
-<h3 align="center">I'm Tech Agnositc</h3>
+<h3 align="center">I'm passionate about Java technologies, I'm Tech Agnositc</h3>
 
+- 🔭 I’m currently working on **Various Projects**
+- 🌱 I’m currently learning **System Design, Microservices, and Backend technologies in depth**
+- 💬 Ask me about **System Design, java, Spring Framework modules**
 - 📫 How to reach me **abdallahalseddek@gmail.com**
 
 
