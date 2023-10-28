@@ -23,9 +23,13 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
 
-📕 **My Latest Reading**
+---
+
+<h3>📕 My Latest Reading</h3>
+
 - [Object Oriented Analysis And Design textbook, 3rd edition.](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/).
 - [Practical Web DataBase Design.](https://link.springer.com/book/10.1007/978-1-4302-5377-8).
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdallahalseddek&show_icons=true&locale=en&hide_border=true" alt="abdallahalseddek" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahalseddek&show_icons=true&locale=en&layout=compact&hide_border=true" alt="abdallahalseddek" />
