@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about Java technologies, I'm Tech Agnositc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahalseddek" alt="abdallahalseddek" /></a> </p>
+
 
 - 🔭 I’m currently working on **Various Projects**
 - 🌱 I’m currently learning **System Design, Microservices, and Backend technologies in depth**
