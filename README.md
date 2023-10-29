@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Alseddek</h1>
-<h3 align="center">I'm passionate about Java technologies, I'm Tech Agnositc</h3>
+<h2 align="center">I'm passionate about Java technologies, I'm Tech Agnositc</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" /> </p>
 
@@ -27,8 +27,8 @@
 
 <h3>📕 My Latest Reading</h3>
 
-- [Object Oriented Analysis And Design textbook, 3rd edition.](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/).
-- [Practical Web DataBase Design.](https://link.springer.com/book/10.1007/978-1-4302-5377-8).
+- [Practical Web DataBase Design.](https://link.springer.com/book/10.1007/978-1-4302-5377-8)
+- [Object Oriented Analysis And Design textbook, 3rd edition.](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdallahalseddek&show_icons=true&locale=en&hide_border=true" alt="abdallahalseddek" />
