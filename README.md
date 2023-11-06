@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" /> </p>
 
-- 📚 I'm currently reading **Concise Guide to Databases,** [book](https://link.springer.com/book/10.1007/978-1-4471-5601-7).
-- 🌱 I’m currently learning **Carnegie Mellon University Database Systems Course,** [Fall 2023](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
+- 📚 I'm currently reading **Practical Web database design** [book](https://link.springer.com/book/10.1007/978-1-4302-5377-8).
+- 🌱 I’m currently learning **CMU Database Systems Course,** [Fall 2023](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 - 💬 Ask me about **java, Spring Framework modules, Object-oriented design, Database Design**
 - 📫 How to reach me **abdallahalseddek@gmail.com**
 
