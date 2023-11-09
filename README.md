@@ -10,8 +10,8 @@
 
 <h3>📕 My Latest Reading</h3>
 
-- [Practical Web DataBase Design.](https://link.springer.com/book/10.1007/978-1-4302-5377-8)
-- [Object Oriented Analysis And Design textbook, 3rd edition.](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
+- [Practical Web DataBase Design.](https://github.com/abdallahalseddek/Practical-Web-Database-Design)
+- [Object Oriented Analysis And Design textbook, 3rd edition.](https://github.com/abdallahalseddek/Vacation-Tracking-System)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-alsedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-alsedek" height="30" width="40" /></a>
