@@ -8,7 +8,7 @@
    <a href="https://wakatime.com/@018bd29b-1c36-4262-bf7b-6a18cc8ac8cc"><img src="https://wakatime.com/badge/user/018bd29b-1c36-4262-bf7b-6a18cc8ac8cc.svg"/></a> <br>
   <a href="mailto:abdallahalseddek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/abdallahalseddek@gmail.com-A23566?style=flat-square&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/abdullah-alsedek"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/abdallahalsedek"><img src="https://img.shields.io/badge/telegram-black?style=flat&logo=telegram&logoColor=white"/></a>
+    <a href="https://t.me/abdallahalseddek"><img src="https://img.shields.io/badge/telegram-black?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://www.facebook.com/abdallahalseddek"><img src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/alseeiq"><img src="https://img.shields.io/badge/codeForces-green?style=flat&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/abdallahalseddek"><img src="https://img.shields.io/badge/hackerrank-blueblack?style=flat&logo=hackerrank&logoColor=white"/></a>
