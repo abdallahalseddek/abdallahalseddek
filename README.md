@@ -5,7 +5,7 @@
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" />
-   <a href="https://wakatime.com/@018bd29b-1c36-4262-bf7b-6a18cc8ac8cc"><img src="https://wakatime.com/badge/user/018bd29b-1c36-4262-bf7b-6a18cc8ac8cc.svg"/></a>
+   <a href="https://wakatime.com/@018bd29b-1c36-4262-bf7b-6a18cc8ac8cc"><img src="https://wakatime.com/badge/user/018bd29b-1c36-4262-bf7b-6a18cc8ac8cc.svg"/></a> <br>
   <a href="mailto:abdallahalseddek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/abdallahalseddek@gmail.com-A23566?style=flat-square&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/abdullah-alsedek"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://t.me/abdallahalsedek"><img src="https://img.shields.io/badge/telegram-black?style=flat&logo=telegram&logoColor=white"/></a>
