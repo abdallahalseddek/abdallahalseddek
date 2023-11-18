@@ -30,3 +30,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdallahalseddek&show_icons=true&locale=en&hide_border=true" alt="abdallahalseddek" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahalseddek&show_icons=true&locale=en&layout=compact&hide_border=true" alt="abdallahalseddek" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahalseddek&hide_border=true" alt="abdallahalseddek" />
+
+<img src="https://wakatime.com/share/@abdallahalseddiq/3efb8996-b87b-4c38-a327-638d65122fa7.svg" alt="languanges chart">
