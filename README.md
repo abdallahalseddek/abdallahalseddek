@@ -2,7 +2,10 @@
 <img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
 <h1 align="center">Hi 👋, I'm Abdallah Alseddek - Software Engineer</h1>
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a> </div>
+       
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" />
    <a href="https://wakatime.com/@018bd29b-1c36-4262-bf7b-6a18cc8ac8cc"><img src="https://wakatime.com/badge/user/018bd29b-1c36-4262-bf7b-6a18cc8ac8cc.svg"/></a> <br>
