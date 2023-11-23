@@ -14,7 +14,7 @@
   <a href="https://www.hackerrank.com/profile/abdallahalseddek"><img src="https://img.shields.io/badge/hackerrank-blueblack?style=flat&logo=hackerrank&logoColor=white"/></a>
   </p>
   
-- 📚 I'm currently reading **Practical Web database design** [book](https://link.springer.com/book/10.1007/978-1-4302-5377-8).
+- 📚 I'm currently reading **Modern Java In Action** [book](https://www.manning.com/books/modern-java-in-action).
 - 🌱 I’m currently learning **Spring Cloud**
 - 💬 Ask me about **java, Spring Framework modules, Object-oriented design, Database Design**
 
