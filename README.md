@@ -20,6 +20,7 @@
 
 <h3>📕 My Latest Reading</h3>
 
+- [Modern Java In Action.](https://github.com/abdallahalseddek/Javaeats)
 - [Practical Web DataBase Design.](https://github.com/abdallahalseddek/Practical-Web-Database-Design)
 - [Object Oriented Analysis And Design textbook, 3rd edition.](https://github.com/abdallahalseddek/Vacation-Tracking-System)
 
