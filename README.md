@@ -1,7 +1,7 @@
 <a href="https://docs.google.com/document/d/1ykn8DkJR6W1q9HnA3o8x7FJemJvY-BfD/edit?usp=sharing&ouid=109821115421257364576&rtpof=true&sd=true" target="_blank">
 <img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi+I+am+Abdallah+ahmed+Alseddek;%F0%9F%92%B0+I%E2%80%99m+currently+seeking+a+Java+Developer+Opportunity;+I%E2%80%99m+currently+learning+Modern+Java+8+In+Action;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Java+Spring+projects;%F0%9F%93%AB+reach+me%3A+send+me+email+on+abdallahalseddek%40gmail.com;%E2%9A%A1+Fun+fact%3A+Keep+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi+I+am+Abdallah+Ahmed+Alseddek;%F0%9F%92%B0+I%E2%80%99m+currently+seeking+a+Java+Developer+Opportunity;+I%E2%80%99m+currently+learning+Spring+Framework+In+Action;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Java+Spring+projects;%F0%9F%93%AB+reach+me%3A+send+me+email+on+abdallahalseddek%40gmail.com;%E2%9A%A1+Fun+fact%3A+Keep+coding)](https://git.io/typing-svg)
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" />
