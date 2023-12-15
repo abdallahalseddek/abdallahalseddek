@@ -14,8 +14,8 @@
   <a href="https://www.hackerrank.com/profile/abdallahalseddek"><img src="https://img.shields.io/badge/hackerrank-blueblack?style=flat&logo=hackerrank&logoColor=white"/></a>
   </p>
   
-- 📚 I'm currently reading **Modern Java In Action** [book](https://www.manning.com/books/modern-java-in-action).
-- 🌱 I’m currently learning **Spring Cloud**
+- 📚 I'm currently reading **Spring In Action, 5th edition** [book](https://www.manning.com/books/spring-in-action-fifth-edition).
+- 🌱 I’m currently learning **Spring MicroServices**
 - 💬 Ask me about **java, Spring Framework modules, Object-oriented design, Database Design**
 
 <h3>📕 My Latest Reading</h3>
