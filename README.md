@@ -20,7 +20,8 @@
 
 <h3>📕 My Latest Reading</h3>
 
-- [Modern Java In Action.](https://github.com/abdallahalseddek/Javaeats)
+- [Spring In Action, 5th edition](https://www.manning.com/books/spring-in-action-fifth-edition)
+- [Modern Java In Action.](https://www.manning.com/books/modern-java-in-action)
 - [Practical Web DataBase Design.](https://github.com/abdallahalseddek/Practical-Web-Database-Design)
 - [Object Oriented Analysis And Design textbook, 3rd edition.](https://github.com/abdallahalseddek/Vacation-Tracking-System)
 
