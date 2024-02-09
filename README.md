@@ -14,12 +14,13 @@
   <a href="https://www.hackerrank.com/profile/abdallahalseddek"><img src="https://img.shields.io/badge/hackerrank-blueblack?style=flat&logo=hackerrank&logoColor=white"/></a>
   </p>
   
-- 📚 I'm currently reading **Spring In Action, 5th edition** [book](https://www.manning.com/books/spring-in-action-fifth-edition).
-- 🌱 I’m currently learning **Spring MicroServices**
+- 📚 I'm currently reading **Spring MicroServices In Action** [book](https://www.manning.com/books/spring-microservices-in-action-second-edition).
+- 🌱 I’m currently learning **Spring Cloud and GraphGL**
 - 💬 Ask me about **java, Spring Framework modules, Object-oriented design, Database Design**
 
 <h3>📕 My Latest Reading</h3>
 
+- [Spring Boot In Action](https://www.manning.com/books/spring-boot-in-action)
 - [Spring In Action, 5th edition](https://www.manning.com/books/spring-in-action-fifth-edition)
 - [Modern Java In Action.](https://www.manning.com/books/modern-java-in-action)
 - [Practical Web DataBase Design.](https://github.com/abdallahalseddek/Practical-Web-Database-Design)
